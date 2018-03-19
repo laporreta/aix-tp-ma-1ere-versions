@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 10em ;
+}
+
+
+h2{
+    text-align: center;
+    color: aqua;
+
+}
+
+p,a{
+    color:black;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    color: rosybrown;
+}
+
+a{
+    text-align: center;
+}
